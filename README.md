@@ -1,4 +1,4 @@
-# How to Use the NASA APIs For Dummies!
+# How to Use NASA Tech in Your Projects
 by arman (techtide)
 
 So there are two routes that you can choose to go down. This really all depends on which language you're comfortable with working with. 
