@@ -27,13 +27,13 @@ see this example query part? :
 
 EXAMPLE QUERY-
 ``https://api.nasa.gov/planetary/apod?api_key={YOUR-API-KEY-FROM-EARLIER}``
-after the ? you can add things like it says in the question paramaters like ?api_key={API KEY FROM EARLIER ILL REPLACE}**&**&date=YYYY-MM-DD
+after the ? you can add things like it says in the question paramaters like ``?api_key={API KEY FROM EARLIER ILL REPLACE}**&**&date=YYYY-MM-DD``
 
 remember nasa uses american date format :)
 
 You'll probably need help with this. Just ask me or another mentor. You can always Whatsapp me.
 
 #### Using the JS Things
-
+Follow this [getting started jsbin](https://api.nasa.gov/index.html#live_example)
 
 ### some helpful links.
