@@ -37,3 +37,6 @@ You'll probably need help with this. Just ask me or another mentor. You can alwa
 Follow this [getting started jsbin](https://api.nasa.gov/index.html#live_example)
 
 ### some helpful links.
+[data](https://data.nasa.gov/)
+[code](https://code.nasa.gov/)
+[make your own space rover - not within scope but interesting nonetheless](https://github.com/nasa-jpl/open-source-rover)
