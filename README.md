@@ -3,6 +3,8 @@ by arman (techtide)
 
 So there are two routes that you can choose to go down. This really all depends on which language you're comfortable with working with. 
 
+my other part of the tutorial, if you want to jump right in - with python : https://github.com/techtide/space-demos/blob/master/data-science.md
+
 If you're using these APIs for offline app things like data science and machine learning (all done with python), then follow my other portion of this guide, which gives you a crash course on another super simple API. You still need an API key, and you should keep it saved on a text file or somewhere accessible. [this is the  guide for python. linked.](https://github.com/techtide/space-demos/blob/master/data-science.md)
 
 1. Start by getting yourself an API key.
